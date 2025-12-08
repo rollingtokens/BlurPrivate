@@ -78,22 +78,10 @@ You can cancel your subscription at any time through your Apple ID account setti
 
 ---
 
-## Privacy & Security
-
-BlurPrivate is designed with privacy as a core principle:
-
-- All processing is done locally on your device
-- No data collection or transmission
-- No third-party analytics
-- No cloud storage or backup
-- Your photos never leave your device
-
----
-
 ## Legal Documents
 
-- [Privacy Policy](#privacy-policy)
-- [Terms of Service](#terms-of-service)
+- [Privacy Policy](https://github.com/rollingtokens/BlurPrivate/blob/main/PRIVACY_POLICY.md)
+- [Terms of Service](https://github.com/rollingtokens/BlurPrivate/blob/main/PRIVACY_POLICY.md)
 
 ---
 
