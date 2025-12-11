@@ -80,8 +80,8 @@ You can cancel your subscription at any time through your Apple ID account setti
 
 ## Legal Documents
 
-- [Privacy Policy](https://github.com/rollingtokens/BlurPrivate/blob/main/PRIVACY_POLICY.md)
-- [Terms of Service](https://github.com/rollingtokens/BlurPrivate/blob/main/PRIVACY_POLICY.md)
+- [Privacy Policy](https://rollingtokens.github.io/BlurPrivate/privacy-policy.html)
+- [Terms of Use](https://rollingtokens.github.io/BlurPrivate/terms-of-use.html)
 
 ---
 
